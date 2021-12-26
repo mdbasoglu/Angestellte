@@ -1,0 +1,6 @@
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/bin/Debug/Uebung58_Angestellte_pbbgh20aba.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/bin/Debug/Uebung58_Angestellte_pbbgh20aba.pdb
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/obj/Debug/Uebung58_Angestellte_pbbgh20aba.csproj.AssemblyReference.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/obj/Debug/Uebung58_Angestellte_pbbgh20aba.csproj.CoreCompileInputs.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/obj/Debug/Uebung58_Angestellte_pbbgh20aba.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung58_Angestellte_pbbgh20aba/Uebung58_Angestellte_pbbgh20aba/obj/Debug/Uebung58_Angestellte_pbbgh20aba.pdb
